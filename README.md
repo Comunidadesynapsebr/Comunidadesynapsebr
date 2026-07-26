@@ -1,31 +1,59 @@
 # 🧠 Comunidade Synapse BR
 
-Welcome to **Comunidade Synapse BR**!
+Bem-vindo à **Comunidade Synapse BR**!
 
-We are an open-source AI community dedicated to developing and sharing lightweight AI models, datasets, and machine learning tools for everyone.
+Somos uma comunidade brasileira de Inteligência Artificial Open Source dedicada ao desenvolvimento de modelos leves, datasets de alta qualidade e ferramentas práticas para pesquisadores, desenvolvedores, estudantes e toda a comunidade.
 
-## 🚀 Our Mission
+## 🚀 Nossa Missão
 
-Our mission is to make artificial intelligence more accessible by providing:
+Nossa missão é tornar a Inteligência Artificial mais acessível por meio do desenvolvimento de soluções abertas, eficientes e de baixo custo computacional, fortalecendo o ecossistema brasileiro de IA.
 
-- 🤖 Lightweight AI models
-- 📚 Public datasets
-- 🧠 Natural Language Processing (NLP)
-- 🔬 Machine Learning research
-- 💙 Open-source projects
+## 🌟 O que Desenvolvemos
 
-All resources are distributed **free of charge** whenever possible.
+Nossos projetos incluem:
 
-## 📂 Projects
+- 🤖 Modelos de linguagem leves (LLMs)
+- 🛡️ Modelos de moderação de conteúdo
+- 🌍 Modelos multilíngues para NLP
+- 🆔 Modelos de identificação de idioma
+- 📚 Datasets públicos
+- 🔤 Tokenizadores
+- 🖼️ Pesquisa em Visão Computacional
+- 🛠️ Ferramentas para desenvolvimento e treinamento de IA
 
-- 📰 SynapseNews-11M
-- 📚 AI Datasets
-- 🔤 Tokenizers
-- 🛠️ AI Training Tools
+## 📦 Projetos em Destaque
 
-More projects are coming soon!
+- 🛡️ Synapse-Guard
+- 🌍 Synapse-LangID
+- 📚 Wikipedia PT 60M
+- 🌐 Synapse Multilingual Dataset
+- 🎨 Synapse Icons 32×32
 
-## 🌱 Community Status
+Novos projetos são publicados continuamente.
+
+## 🤝 Como Contribuir
+
+Contribuições são sempre bem-vindas!
+
+Você pode colaborar de diversas formas:
+
+- 🐛 Reportando problemas
+- 💡 Sugerindo novas ideias
+- 📚 Melhorando a documentação
+- 📊 Criando datasets
+- 🤖 Treinando novos modelos
+- 🔀 Enviando Pull Requests
+
+## ❤️ Faça Parte da Comunidade
+
+Se você gosta do nosso trabalho, considere:
+
+- ⭐ Dar uma estrela nos nossos repositórios
+- 🤗 Seguir nossa organização no Hugging Face
+- 💬 Compartilhar nossos projetos
+- 🚀 Contribuir para futuros modelos e datasets
+
+Juntos podemos fortalecer a Inteligência Artificial Open Source desenvolvida no Brasil.## 🌱 Community Status
 
 The community is currently in its early stages.
 
